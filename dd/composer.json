@@ -1,0 +1,14 @@
+{
+    "name": "miya/dd",
+    "description": "use laravel dd replace var_dump",
+    "authors": [
+        {
+            "name": "xiaomi",
+            "email": "zhangmi99@163.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+    	"symfony/v-ar-dumper": "^3.2"
+    }
+}
