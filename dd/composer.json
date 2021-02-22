@@ -9,6 +9,6 @@
     ],
     "license": "MIT",
     "require": {
-    	"symfony/v-ar-dumper": "^3.2"
+    	"symfony/var-dumper": "^3.2"
     }
 }

@@ -7,8 +7,6 @@ if (! function_exists('dd')) {
 	    array_map(function ($x) {
             (new VarDumper)->dump($x);
         }, func_get_args());
-
-        die(1);
 	}
 }
 
