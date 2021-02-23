@@ -10,5 +10,11 @@
     "license": "MIT",
     "require": {
     	"symfony/var-dumper": "^3.2"
+    },
+    "autoload": {
+        "files": ["src/dump.php"],
+        "psr-4": {
+            "dd\\": "src/"
+        }
     }
 }
